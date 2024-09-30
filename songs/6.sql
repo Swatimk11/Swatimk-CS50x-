@@ -1,0 +1,2 @@
+SELECT SONGS.NAME FROM SONGS JOIN ARTISTS  ON SONGS .ARTIST_ID =artists.id WHERE artists.name ='Post Malone';
+
